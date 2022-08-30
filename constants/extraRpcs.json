@@ -1463,5 +1463,10 @@
         "rpcs":[
             "https://beta-rpc.mainnet.computecoin.com"
        ]
+    },
+    "14444":{
+        "rpcs":[
+            "https://hashpechains.com"
+       ]
     }
 }
